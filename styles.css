@@ -1,5 +1,15 @@
-.vegetable {
-	font: "Times New Roman", sans-serif;
-	color: green;
+body{
+	font-family: "Gill Sans", sans-serif;
+
+}
+
+#guacamole_background{
+	background-color: rgb(218, 230, 149);
+}
+#bruschetta_background{
+	background-color: rgb(230, 148, 79);
+}
+#eggplant_background{
+	background-color: rgb(223, 205, 244);
 }
 
