@@ -1,6 +1,5 @@
 body{
 	font-family: "Gill Sans", sans-serif;
-
 }
 
 #guacamole_background{
@@ -11,5 +10,9 @@ body{
 }
 #eggplant_background{
 	background-color: rgb(223, 205, 244);
+}
+
+.title{
+	border-bottom: 5px dotted black;
 }
 
